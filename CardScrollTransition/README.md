@@ -1,5 +1,7 @@
 # Card Scroll Transition
 
+![Demo](demo.gif)
+
 A smooth card scrolling experience with scale, blur, and opacity transitions inspired by modern app designs.
 
 ## The Challenge
