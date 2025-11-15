@@ -1,6 +1,6 @@
 # Card Scroll Transition
 
-![Demo](demo.gif)
+![Demo](card-scroll-demo.gif)
 
 A smooth card scrolling experience with scale, blur, and opacity transitions inspired by modern app designs.
 
