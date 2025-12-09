@@ -32,6 +32,7 @@ struct LucentBorderModifier: ViewModifier {
                         lineWidth: lineWidth
                     )
                     .blur(radius: blurRadius)
+                    .drawingGroup()
             }
     }
 }
